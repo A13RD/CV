@@ -50,3 +50,10 @@ a{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+
+img{
+
+    border: 4px Solid rgb(0, 0, 253);
+    border-radius: 80%;
+
+}
